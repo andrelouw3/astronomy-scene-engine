@@ -49,4 +49,5 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 - **Surface maps:** Solar System Scope (solarsystemscope.com), CC BY 4.0, resized and re-encoded; NASA Blue Marble and Visible Earth (public domain); Earth relief SRTM30_PLUS (Becker et al. 2009) and Mars relief MOLA (Mars Global Surveyor), via SHTOOLS; coastlines Natural Earth (public domain).
 - **Moving continents:** PALEOMAP (C. R. Scotese, PALEOMAP Project), CC BY 3.0, as distributed with GPlates.
 - **Geomagnetic Kp record:** GFZ German Research Centre for Geosciences, CC BY 4.0 (Matzka et al. 2021, doi:10.1029/2020SW002641); geomagnetic poles: IGRF-14 (WDC for Geomagnetism, Kyoto).
+- **Cities:** Natural Earth populated places 5.1.2 (public domain); time zones from the IANA tz database `zone.tab` (public domain).
 - **Ice optics:** Warren, S. G., and R. E. Brandt (2008), J. Geophys. Res. 113, D14220. **Meteor showers:** International Meteor Organization.

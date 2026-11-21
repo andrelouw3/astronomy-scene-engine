@@ -6,4 +6,6 @@ A single, offline web page for flying the Solar System: standing on other worlds
 
 Free, with no tracking. Everything is in the one `index.html`: it makes no network requests and works offline once saved.
 
+Made by Andries Louw of YoungBlood Consultants ([young-blood.co.za](https://young-blood.co.za/)). Feedback, ideas and questions: use **Send feedback** in the page's About panel.
+
 This repository only holds the built page. The source is private. Third-party licences and data credits are in [LICENSE-THIRD-PARTY.md](LICENSE-THIRD-PARTY.md).
